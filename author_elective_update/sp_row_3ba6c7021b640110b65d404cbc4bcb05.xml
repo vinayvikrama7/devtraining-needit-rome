@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <sp_column/>
+        <sp_container display_value="Sample Page - Container 1">aa9647021b640110b65d404cbc4bcb55</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-22 11:50:22</sys_created_on>
+        <sys_id>3ba6c7021b640110b65d404cbc4bcb05</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sp_row_3ba6c7021b640110b65d404cbc4bcb05</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-22 11:50:22</sys_updated_on>
+    </sp_row>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>eb857a3fdb3293403353f22ebf9619ac</instance_id>
+        <instance_name>dev62757</instance_name>
+        <name>sp_row_3ba6c7021b640110b65d404cbc4bcb05</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><sp_column/><sp_container display_value="Sample Page - Container 1">aa9647021b640110b65d404cbc4bcb55</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-22 11:50:22</sys_created_on><sys_id>3ba6c7021b640110b65d404cbc4bcb05</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sp_row_3ba6c7021b640110b65d404cbc4bcb05</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-22 11:50:22</sys_updated_on></sp_row></record_update>]]></payload>
+        <payload_hash>1073948311</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>7d6ac1ac1b040110b65d404cbc4bcb42</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-22 11:50:22</sys_created_on>
+        <sys_id>fba6c7021b640110b65d404cbc4bcb07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17de1fa63e80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-22 11:50:22</sys_updated_on>
+        <type>Row</type>
+        <update_guid>37a6c7020f640110c93bd8d6929ab507</update_guid>
+        <update_guid_history>37a6c7020f640110c93bd8d6929ab507:1073948311</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">99c6c7421b640110b65d404cbc4bcb00</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-22 11:50:45</sys_created_on>
+        <sys_db_object display_value="" name="sp_row">sp_row</sys_db_object>
+        <sys_id>1198857de6af443da6118110ef2403c9</sys_id>
+        <sys_metadata>3ba6c7021b640110b65d404cbc4bcb05</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sp_row_3ba6c7021b640110b65d404cbc4bcb05</sys_update_name>
+        <sys_update_version display_value="sp_row_3ba6c7021b640110b65d404cbc4bcb05">fba6c7021b640110b65d404cbc4bcb07</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-22 11:50:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
